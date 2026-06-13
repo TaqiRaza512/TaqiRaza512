@@ -15,8 +15,6 @@
 
 I build computer vision systems that understand images and video: **depth, motion, geometry, text, objects, and temporal consistency**.
 
-Currently at **Roll.ai**, I work on monocular camera-motion and video generation pipelines using depth estimation, optical flow, 3D reconstruction, diffusion models, ControlNet, inpainting, super-resolution, and identity preservation.
-
 ## Focus
 
 | Area | What I Work On |
@@ -24,7 +22,7 @@ Currently at **Roll.ai**, I work on monocular camera-motion and video generation
 | Video AI | camera motion, temporal consistency, controllable generation |
 | 3D Vision | depth estimation, optical flow, reconstruction, geometry |
 | OCR / Recognition | synthetic data, robustness, real-world visual noise |
-| Robotics Perception | multi-agent navigation, MPC, ORCA-style baselines |
+| Robotics Perception | multi-robot navigation, MPC, ORCA-style baselines |
 | Production ML | Dockerized inference, model optimization, deployment-ready APIs |
 
 ## Tech Stack
@@ -45,7 +43,7 @@ Currently at **Roll.ai**, I work on monocular camera-motion and video generation
 
 | Roll.ai | Hazen.ai | Research |
 | --- | --- | --- |
-| Monocular video pipelines, 3D/geometric consistency, controllable video generation | License plate OCR, synthetic data, robustness under blur/low light/smog | Multi-agent navigation, MPC planning, ORCA comparisons |
+| Monocular video pipelines, 3D/geometric consistency, controllable video generation | License plate OCR, synthetic data, robustness under blur/low light/smog | Multi-robot navigation, MPC planning, ORCA comparisons |
 
 ## Building Next
 
@@ -60,6 +58,6 @@ Currently at **Roll.ai**, I work on monocular camera-motion and video generation
 
 <div align="center">
 
-**Open to Computer Vision, Video AI, Robotics Perception, OCR, and 3D Vision roles or contract work.**
+**Open to collaboration in computer vision, video AI, robotics perception, OCR, and 3D vision.**
 
 </div>
