@@ -45,15 +45,6 @@ I build end-to-end computer vision systems that turn images and video into relia
 | --- | --- | --- |
 | Monocular video pipelines, 3D/geometric consistency, controllable video generation | License plate OCR, synthetic data, robustness under blur/low light/smog | Multi-robot navigation, collision avoidance, MPC planning, ORCA comparisons |
 
-## Building Next
-
-| Project | Direction |
-| --- | --- |
-| `real-time-ocr-video-analytics` | OCR, detection, tracking, video analytics |
-| `monocular-video-3d-perception` | depth, optical flow, segmentation, 3D motion cues |
-| `cv-model-serving-fastapi-docker` | end-to-end CV serving with FastAPI, Docker, and AWS-ready deployment |
-| `multi-robot-navigation-mpc-orca` | multi-robot navigation, collision avoidance, MPC, and ORCA baselines |
-
 ---
 
 <div align="center">
