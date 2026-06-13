@@ -13,7 +13,7 @@
 
 ---
 
-I build computer vision systems that understand images and video: **depth, motion, geometry, text, objects, and temporal consistency**.
+I build end-to-end computer vision systems that turn images and video into reliable signals: **depth, motion, geometry, text, objects, and temporal consistency**.
 
 ## Focus
 
@@ -22,8 +22,8 @@ I build computer vision systems that understand images and video: **depth, motio
 | Video AI | camera motion, temporal consistency, controllable generation |
 | 3D Vision | depth estimation, optical flow, reconstruction, geometry |
 | OCR / Recognition | synthetic data, robustness, real-world visual noise |
-| Robotics Perception | multi-robot navigation, MPC, ORCA-style baselines |
-| Production ML | Dockerized inference, model optimization, deployment-ready APIs |
+| Robotics Perception | multi-robot navigation, collision avoidance, MPC, ORCA-style baselines |
+| Production ML | end-to-end CV pipelines, Dockerized inference, AWS deployment, model optimization |
 
 ## Tech Stack
 
@@ -43,7 +43,7 @@ I build computer vision systems that understand images and video: **depth, motio
 
 | Roll.ai | Hazen.ai | Research |
 | --- | --- | --- |
-| Monocular video pipelines, 3D/geometric consistency, controllable video generation | License plate OCR, synthetic data, robustness under blur/low light/smog | Multi-robot navigation, MPC planning, ORCA comparisons |
+| Monocular video pipelines, 3D/geometric consistency, controllable video generation | License plate OCR, synthetic data, robustness under blur/low light/smog | Multi-robot navigation, collision avoidance, MPC planning, ORCA comparisons |
 
 ## Building Next
 
@@ -51,8 +51,8 @@ I build computer vision systems that understand images and video: **depth, motio
 | --- | --- |
 | `real-time-ocr-video-analytics` | OCR, detection, tracking, video analytics |
 | `monocular-video-3d-perception` | depth, optical flow, segmentation, 3D motion cues |
-| `cv-model-serving-fastapi-docker` | production-style CV inference APIs |
-| `multi-agent-navigation-mpc-orca` | robotics navigation and collision avoidance |
+| `cv-model-serving-fastapi-docker` | end-to-end CV serving with FastAPI, Docker, and AWS-ready deployment |
+| `multi-robot-navigation-mpc-orca` | multi-robot navigation, collision avoidance, MPC, and ORCA baselines |
 
 ---
 
