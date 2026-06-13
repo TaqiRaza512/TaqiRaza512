@@ -1,42 +1,65 @@
+<div align="center">
+
 # Muhammad Taqi Raza
 
-**Computer Vision Engineer**  
-Video AI · 3D Vision · OCR · Robotics Perception
+### Computer Vision Engineer
 
-I build computer vision systems that understand images and video: depth, motion, geometry, text, objects, and temporal consistency.
+**Video AI · 3D Vision · OCR · Robotics Perception · Production Inference**
 
-Currently working at **Roll.ai** on monocular camera-motion and video generation pipelines using depth estimation, optical flow, 3D reconstruction, diffusion models, ControlNet, inpainting, super-resolution, and identity preservation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Taqi%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-taqi-raza)
+[![Email](https://img.shields.io/badge/Email-taqiraza126%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taqiraza126@gmail.com)
+
+</div>
+
+---
+
+I build computer vision systems that understand images and video: **depth, motion, geometry, text, objects, and temporal consistency**.
+
+Currently at **Roll.ai**, I work on monocular camera-motion and video generation pipelines using depth estimation, optical flow, 3D reconstruction, diffusion models, ControlNet, inpainting, super-resolution, and identity preservation.
 
 ## Focus
 
-- Video AI and real-time video understanding
-- 3D reconstruction, depth estimation, and optical flow
-- OCR, synthetic data, and robust visual recognition
-- Robotics perception and multi-agent navigation
-- Production inference with PyTorch, OpenCV, Docker, and AWS
+| Area | What I Work On |
+| --- | --- |
+| Video AI | camera motion, temporal consistency, controllable generation |
+| 3D Vision | depth estimation, optical flow, reconstruction, geometry |
+| OCR / Recognition | synthetic data, robustness, real-world visual noise |
+| Robotics Perception | multi-agent navigation, MPC, ORCA-style baselines |
+| Production ML | Dockerized inference, model optimization, deployment-ready APIs |
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ## Experience Snapshot
 
-**Roll.ai**  
-Monocular video pipelines, 3D/geometric consistency, controllable video generation, production inference optimization.
-
-**Hazen.ai**  
-License plate OCR, synthetic data generation, real-world robustness under blur, low light, smog, and distorted plates.
-
-**Research**  
-Multi-agent robot navigation, MPC-based planning, ORCA comparisons, collision-free trajectory optimization.
-
-## Tech I Use
-
-`Python` `C++` `PyTorch` `OpenCV` `TensorFlow` `Docker` `AWS` `Linux` `Git` `MATLAB`
+| Roll.ai | Hazen.ai | Research |
+| --- | --- | --- |
+| Monocular video pipelines, 3D/geometric consistency, controllable video generation | License plate OCR, synthetic data, robustness under blur/low light/smog | Multi-agent navigation, MPC planning, ORCA comparisons |
 
 ## Building Next
 
-- `real-time-ocr-video-analytics`
-- `monocular-video-3d-perception`
-- `cv-model-serving-fastapi-docker`
-- `multi-agent-navigation-mpc-orca`
+| Project | Direction |
+| --- | --- |
+| `real-time-ocr-video-analytics` | OCR, detection, tracking, video analytics |
+| `monocular-video-3d-perception` | depth, optical flow, segmentation, 3D motion cues |
+| `cv-model-serving-fastapi-docker` | production-style CV inference APIs |
+| `multi-agent-navigation-mpc-orca` | robotics navigation and collision avoidance |
 
-## Contact
+---
 
-[LinkedIn](https://linkedin.com/in/muhammad-taqi-raza) · [Email](mailto:taqiraza126@gmail.com)
+<div align="center">
+
+**Open to Computer Vision, Video AI, Robotics Perception, OCR, and 3D Vision roles or contract work.**
+
+</div>
