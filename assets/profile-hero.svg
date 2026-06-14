@@ -73,26 +73,19 @@
   </g>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <rect x="94" y="400" width="318" height="142" rx="22" fill="#08111f" fill-opacity="0.92" stroke="#1e3a5f"/>
-    <rect x="116" y="423" width="46" height="46" rx="14" fill="#0ea5e9" fill-opacity="0.16"/>
-    <text x="130" y="454" fill="#38bdf8" font-size="22" font-weight="800">01</text>
-    <text x="180" y="446" fill="#f8fafc" font-size="20" font-weight="800">Generative Video AI</text>
-    <text x="180" y="480" fill="#94a3b8" font-size="15" font-weight="500">Diffusion · ControlNet</text>
-    <text x="180" y="508" fill="#94a3b8" font-size="15" font-weight="500">Camera motion · consistency</text>
+    <rect x="170" y="400" width="405" height="142" rx="22" fill="#08111f" fill-opacity="0.92" stroke="#25483f"/>
+    <rect x="196" y="423" width="46" height="46" rx="14" fill="#14b8a6" fill-opacity="0.16"/>
+    <text x="210" y="454" fill="#2dd4bf" font-size="22" font-weight="800">01</text>
+    <text x="264" y="446" fill="#f8fafc" font-size="21" font-weight="800">3D Vision &amp; Geometry</text>
+    <text x="264" y="480" fill="#94a3b8" font-size="15" font-weight="500">Monocular depth · optical flow</text>
+    <text x="264" y="508" fill="#94a3b8" font-size="15" font-weight="500">3D reconstruction · geometry</text>
 
-    <rect x="441" y="400" width="318" height="142" rx="22" fill="#08111f" fill-opacity="0.92" stroke="#25483f"/>
-    <rect x="463" y="423" width="46" height="46" rx="14" fill="#14b8a6" fill-opacity="0.16"/>
-    <text x="477" y="454" fill="#2dd4bf" font-size="22" font-weight="800">02</text>
-    <text x="527" y="446" fill="#f8fafc" font-size="20" font-weight="800">3D Vision &amp; Geometry</text>
-    <text x="527" y="480" fill="#94a3b8" font-size="15" font-weight="500">Monocular depth · optical flow</text>
-    <text x="527" y="508" fill="#94a3b8" font-size="15" font-weight="500">3D reconstruction · geometry</text>
-
-    <rect x="788" y="400" width="318" height="142" rx="22" fill="#08111f" fill-opacity="0.92" stroke="#1e40af"/>
-    <rect x="810" y="423" width="46" height="46" rx="14" fill="#2563eb" fill-opacity="0.16"/>
-    <text x="824" y="454" fill="#60a5fa" font-size="22" font-weight="800">03</text>
-    <text x="874" y="446" fill="#f8fafc" font-size="20" font-weight="800">Robotics Perception</text>
-    <text x="874" y="480" fill="#94a3b8" font-size="15" font-weight="500">MPC planning · multi-robot nav</text>
-    <text x="874" y="508" fill="#94a3b8" font-size="15" font-weight="500">Collision avoidance · obstacles</text>
+    <rect x="625" y="400" width="405" height="142" rx="22" fill="#08111f" fill-opacity="0.92" stroke="#1e40af"/>
+    <rect x="651" y="423" width="46" height="46" rx="14" fill="#2563eb" fill-opacity="0.16"/>
+    <text x="665" y="454" fill="#60a5fa" font-size="22" font-weight="800">02</text>
+    <text x="719" y="446" fill="#f8fafc" font-size="21" font-weight="800">Robotics Perception</text>
+    <text x="719" y="480" fill="#94a3b8" font-size="15" font-weight="500">MPC planning · multi-robot navigation</text>
+    <text x="719" y="508" fill="#94a3b8" font-size="15" font-weight="500">Collision avoidance · obstacle-rich environments</text>
   </g>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
