@@ -1,59 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,45:2563eb,100:06b6d4&text=Muhammad%20Taqi%20Raza&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Computer%20Vision%20Engineer%20%E2%80%A2%20Video%20AI%20%E2%80%A2%203D%20Vision%20%E2%80%A2%20Robotics%20Perception&descAlignY=56&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:020617,55:1d4ed8,100:06b6d4&text=Muhammad%20Taqi%20Raza&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Computer%20Vision%20Engineer%20%7C%20Video%20AI%20%7C%203D%20Vision%20%7C%20Robotics%20Perception&descAlignY=56&descSize=15" />
 
-<p>
-  <a href="https://linkedin.com/in/muhammad-taqi-raza">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:taqiraza126@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/muhammad-taqi-raza">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:taqiraza126@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<table>
-<tr>
-<td width="58%">
+---
 
-### Vision Systems That Understand the Real World
+### Building vision systems that understand the real world
 
-I build end-to-end computer vision systems that turn images and video into reliable signals: **depth, motion, geometry, text, objects, and temporal consistency**.
+I work on end-to-end computer vision systems that turn images and video into reliable signals: **depth, motion, geometry, text, objects, temporal consistency, and safe perception outputs**.
 
-My work sits where research-heavy vision meets deployable systems: monocular video, 3D/geometric consistency, OCR, robotics perception, and production inference.
-
-</td>
-<td width="42%">
-
-### Core Signal
+My work sits at the intersection of **video AI**, **3D/geometric vision**, **OCR**, **robotics perception**, and **production inference**.
 
 ```text
-Video -> depth / flow / geometry
-Images -> text / objects / masks
-Perception -> navigation / safety
-Models -> Docker / AWS / APIs
+Video       -> depth / optical flow / motion / temporal consistency
+Images      -> text / objects / masks / robust recognition
+Perception  -> multi-robot navigation / collision avoidance / safety
+Models      -> Dockerized inference / AWS deployment / end-to-end APIs
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
-## Domain Map
+### Core Domains
 
-<table>
-<tr>
-<td align="center" width="20%"><b>Video AI</b><br/><sub>camera motion<br/>temporal consistency<br/>controllable generation</sub></td>
-<td align="center" width="20%"><b>3D Vision</b><br/><sub>depth estimation<br/>optical flow<br/>reconstruction</sub></td>
-<td align="center" width="20%"><b>OCR</b><br/><sub>synthetic data<br/>robust recognition<br/>real-world noise</sub></td>
-<td align="center" width="20%"><b>Robotics</b><br/><sub>multi-robot navigation<br/>collision avoidance<br/>MPC / ORCA</sub></td>
-<td align="center" width="20%"><b>Production ML</b><br/><sub>Dockerized inference<br/>AWS deployment<br/>end-to-end APIs</sub></td>
-</tr>
-</table>
+**Video AI**  
+Camera motion, controllable generation, temporal consistency, inpainting, super-resolution.
 
-## Stack
+**3D / Geometric Vision**  
+Depth estimation, optical flow, 3D reconstruction, geometry-aware video pipelines.
+
+**OCR / Visual Recognition**  
+Synthetic data, license plate OCR, robustness under blur, low light, smog, and distorted inputs.
+
+**Robotics Perception**  
+Multi-robot navigation, collision avoidance, MPC planning, ORCA-style baselines.
+
+**Production ML**  
+End-to-end CV pipelines, Dockerized inference, AWS deployment, model optimization.
+
+---
+
+### Stack
 
 <div align="center">
 
@@ -84,15 +78,18 @@ Models -> Docker / AWS / APIs
 
 </div>
 
-## Experience Snapshot
+---
 
-<table>
-<tr>
-<td width="33%"><b>Roll.ai</b><br/><sub>Monocular video pipelines, 3D/geometric consistency, controllable video generation, production inference.</sub></td>
-<td width="33%"><b>Hazen.ai</b><br/><sub>License plate OCR, synthetic data generation, robustness under blur, low light, smog, and distorted plates.</sub></td>
-<td width="33%"><b>Research</b><br/><sub>Multi-robot navigation, collision avoidance, MPC planning, and ORCA-style comparisons.</sub></td>
-</tr>
-</table>
+### Experience Snapshot
+
+**Roll.ai**  
+Monocular video pipelines, 3D/geometric consistency, controllable video generation, production inference.
+
+**Hazen.ai**  
+License plate OCR, synthetic data generation, robustness under blur, low light, smog, and distorted plates.
+
+**Research**  
+Multi-robot navigation, collision avoidance, MPC planning, and ORCA-style comparisons.
 
 ---
 
@@ -102,6 +99,6 @@ Models -> Docker / AWS / APIs
 
 Computer Vision · Video AI · Robotics Perception · OCR · 3D Vision
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06b6d4,50:2563eb,100:0f172a" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06b6d4,50:2563eb,100:020617" />
 
 </div>
