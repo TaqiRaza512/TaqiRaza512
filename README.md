@@ -12,7 +12,9 @@
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+vision+systems+for+real-world+video%2C+geometry%2C+OCR%2C+and+robotics.;Turning+pixels+into+depth%2C+motion%2C+text%2C+and+safe+perception+signals." />
+<h3>Real-world vision systems for video, geometry, OCR, and robotics</h3>
+
+<p>Depth · Motion · Text Recognition · Temporal Consistency · Dense-Environment Collision Avoidance</p>
 
 </div>
 
@@ -23,7 +25,7 @@
 <img src="https://img.shields.io/badge/Video%20AI-camera%20motion%20%7C%20temporal%20consistency-0f172a?style=for-the-badge&labelColor=0284c7" />
 <img src="https://img.shields.io/badge/3D%20Vision-depth%20%7C%20optical%20flow%20%7C%20reconstruction-0f172a?style=for-the-badge&labelColor=0d9488" />
 <img src="https://img.shields.io/badge/OCR-synthetic%20data%20%7C%20robust%20recognition-0f172a?style=for-the-badge&labelColor=7c3aed" />
-<img src="https://img.shields.io/badge/Robotics%20Perception-MPC%20%7C%20collision%20avoidance%20%7C%20ORCA-0f172a?style=for-the-badge&labelColor=ea580c" />
+<img src="https://img.shields.io/badge/Robotics%20Perception-MPC%20%7C%20dense%20obstacle%20avoidance-0f172a?style=for-the-badge&labelColor=ea580c" />
 <img src="https://img.shields.io/badge/Production%20ML-Docker%20%7C%20AWS%20%7C%20end--to--end%20systems-0f172a?style=for-the-badge&labelColor=16a34a" />
 
 </div>
@@ -55,7 +57,7 @@ Monocular video generation pipelines with camera motion, depth, optical flow, te
 License plate OCR with synthetic data generation and robustness across blur, low light, smog, and distorted plates.
 
 **Research**  
-Multi-robot navigation with collision avoidance, MPC planning, and ORCA-style baseline comparisons.
+Multi-robot navigation with MPC planning and dense-environment collision avoidance across obstacle-rich scenarios.
 
 <br />
 
