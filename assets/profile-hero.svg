@@ -1,99 +1,98 @@
 <svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Taqi Raza - Computer Vision Engineer</title>
-  <desc id="desc">A polished profile UI for computer vision, video AI, OCR, 3D vision, robotics perception, and production ML.</desc>
+  <desc id="desc">A polished profile UI for computer vision, video AI, 3D vision, robotics perception, OCR, and production ML.</desc>
   <defs>
     <linearGradient id="page" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#060712"/>
-      <stop offset="0.42" stop-color="#102a43"/>
-      <stop offset="1" stop-color="#0f766e"/>
+      <stop offset="0" stop-color="#050711"/>
+      <stop offset="0.52" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0f3a44"/>
     </linearGradient>
-    <linearGradient id="panel" x1="80" y1="74" x2="1120" y2="700" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0f172a" stop-opacity="0.96"/>
-      <stop offset="0.52" stop-color="#07111f" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#042f2e" stop-opacity="0.9"/>
+    <linearGradient id="panel" x1="72" y1="62" x2="1128" y2="698" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a" stop-opacity="0.98"/>
+      <stop offset="0.55" stop-color="#07111f" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#072f36" stop-opacity="0.92"/>
     </linearGradient>
-    <linearGradient id="accent" x1="96" y1="665" x2="1104" y2="665" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="96" y1="682" x2="1104" y2="682" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38bdf8"/>
-      <stop offset="0.35" stop-color="#a78bfa"/>
-      <stop offset="0.68" stop-color="#f97316"/>
-      <stop offset="1" stop-color="#22c55e"/>
+      <stop offset="0.48" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#60a5fa"/>
     </linearGradient>
-    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 220) rotate(90) scale(300)">
-      <stop stop-color="#38bdf8" stop-opacity="0.32"/>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 226) rotate(90) scale(320)">
+      <stop stop-color="#38bdf8" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="24" stdDeviation="32" flood-color="#020617" flood-opacity="0.42"/>
+      <feDropShadow dx="0" dy="24" stdDeviation="34" flood-color="#020617" flood-opacity="0.45"/>
     </filter>
   </defs>
 
   <rect width="1200" height="760" rx="36" fill="url(#page)"/>
-  <circle cx="980" cy="175" r="260" fill="url(#halo)"/>
-  <circle cx="180" cy="670" r="260" fill="#7c3aed" fill-opacity="0.08"/>
+  <circle cx="975" cy="190" r="292" fill="url(#halo)"/>
+  <circle cx="120" cy="705" r="310" fill="#0ea5e9" fill-opacity="0.06"/>
 
   <g filter="url(#shadow)">
-    <rect x="58" y="54" width="1084" height="652" rx="34" fill="url(#panel)" stroke="#253449"/>
+    <rect x="58" y="54" width="1084" height="652" rx="34" fill="url(#panel)" stroke="#243244"/>
   </g>
 
-  <g opacity="0.16">
-    <path d="M748 120H1074" stroke="#94a3b8"/>
-    <path d="M748 180H1074" stroke="#94a3b8"/>
-    <path d="M748 240H1074" stroke="#94a3b8"/>
-    <path d="M748 300H1074" stroke="#94a3b8"/>
-    <path d="M806 92V328" stroke="#94a3b8"/>
-    <path d="M876 92V328" stroke="#94a3b8"/>
-    <path d="M946 92V328" stroke="#94a3b8"/>
-    <path d="M1016 92V328" stroke="#94a3b8"/>
+  <g opacity="0.14">
+    <path d="M760 124H1078" stroke="#94a3b8"/>
+    <path d="M760 184H1078" stroke="#94a3b8"/>
+    <path d="M760 244H1078" stroke="#94a3b8"/>
+    <path d="M760 304H1078" stroke="#94a3b8"/>
+    <path d="M818 96V332" stroke="#94a3b8"/>
+    <path d="M888 96V332" stroke="#94a3b8"/>
+    <path d="M958 96V332" stroke="#94a3b8"/>
+    <path d="M1028 96V332" stroke="#94a3b8"/>
   </g>
 
   <text x="94" y="112" fill="#7dd3fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="3">COMPUTER VISION ENGINEER</text>
   <text x="94" y="180" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="850" letter-spacing="0">Muhammad Taqi Raza</text>
-  <text x="98" y="225" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Video AI · 3D Vision · OCR · Robotics Perception</text>
-  <text x="98" y="265" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">Depth · Motion · Geometry · Recognition · Safe Perception · Production ML</text>
+  <text x="98" y="225" fill="#dbeafe" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="650">Video AI · 3D Geometry · Robotics Perception</text>
+  <text x="98" y="265" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">Depth · Optical Flow · Reconstruction · Temporal Consistency · Production ML</text>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="750">
     <rect x="96" y="304" width="116" height="38" rx="19" fill="#0ea5e9"/>
     <text x="127" y="329" fill="#ffffff">Video AI</text>
-    <rect x="224" y="304" width="154" height="38" rx="19" fill="#14b8a6"/>
-    <text x="254" y="329" fill="#ffffff">3D Geometry</text>
-    <rect x="390" y="304" width="84" height="38" rx="19" fill="#8b5cf6"/>
-    <text x="420" y="329" fill="#ffffff">OCR</text>
-    <rect x="486" y="304" width="160" height="38" rx="19" fill="#f97316"/>
-    <text x="515" y="329" fill="#ffffff">Dense Avoidance</text>
+    <rect x="224" y="304" width="146" height="38" rx="19" fill="#14b8a6"/>
+    <text x="254" y="329" fill="#ffffff">3D Vision</text>
+    <rect x="382" y="304" width="144" height="38" rx="19" fill="#2563eb"/>
+    <text x="412" y="329" fill="#ffffff">Robotics</text>
+    <rect x="538" y="304" width="84" height="38" rx="19" fill="#475569"/>
+    <text x="568" y="329" fill="#ffffff">OCR</text>
   </g>
 
   <g>
-    <circle cx="912" cy="206" r="92" stroke="#38bdf8" stroke-opacity="0.82" stroke-width="4"/>
-    <circle cx="912" cy="206" r="50" stroke="#22c55e" stroke-opacity="0.85" stroke-width="4"/>
-    <circle cx="912" cy="206" r="9" fill="#e0f2fe"/>
-    <circle cx="1036" cy="150" r="12" fill="#38bdf8"/>
-    <circle cx="1048" cy="276" r="12" fill="#22c55e"/>
-    <circle cx="802" cy="300" r="12" fill="#60a5fa"/>
-    <path d="M912 206L1036 150M912 206L1048 276M912 206L802 300" stroke="#cbd5e1" stroke-opacity="0.6" stroke-width="3"/>
-    <path d="M750 352C815 382 890 394 968 379C1038 365 1085 329 1124 297" stroke="#38bdf8" stroke-opacity="0.36" stroke-width="3"/>
+    <circle cx="922" cy="210" r="92" stroke="#38bdf8" stroke-opacity="0.82" stroke-width="4"/>
+    <circle cx="922" cy="210" r="50" stroke="#2dd4bf" stroke-opacity="0.85" stroke-width="4"/>
+    <circle cx="922" cy="210" r="9" fill="#e0f2fe"/>
+    <circle cx="1042" cy="154" r="12" fill="#38bdf8"/>
+    <circle cx="1052" cy="278" r="12" fill="#2dd4bf"/>
+    <circle cx="812" cy="304" r="12" fill="#60a5fa"/>
+    <path d="M922 210L1042 154M922 210L1052 278M922 210L812 304" stroke="#cbd5e1" stroke-opacity="0.62" stroke-width="3"/>
+    <path d="M760 354C826 384 898 394 974 378C1040 364 1088 330 1122 300" stroke="#38bdf8" stroke-opacity="0.34" stroke-width="3"/>
   </g>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <rect x="94" y="400" width="318" height="142" rx="22" fill="#08111f" fill-opacity="0.9" stroke="#1e3a5f"/>
-    <rect x="116" y="423" width="46" height="46" rx="14" fill="#0ea5e9" fill-opacity="0.18"/>
+    <rect x="94" y="400" width="318" height="142" rx="22" fill="#08111f" fill-opacity="0.92" stroke="#1e3a5f"/>
+    <rect x="116" y="423" width="46" height="46" rx="14" fill="#0ea5e9" fill-opacity="0.16"/>
     <text x="130" y="454" fill="#38bdf8" font-size="22" font-weight="850">01</text>
-    <text x="180" y="446" fill="#f8fafc" font-size="20" font-weight="800">Video Motion Systems</text>
-    <text x="180" y="480" fill="#94a3b8" font-size="15" font-weight="500">Camera motion · depth · flow</text>
+    <text x="180" y="446" fill="#f8fafc" font-size="20" font-weight="800">Cinematic Video AI</text>
+    <text x="180" y="480" fill="#94a3b8" font-size="15" font-weight="500">Camera motion · generation</text>
     <text x="180" y="508" fill="#94a3b8" font-size="15" font-weight="500">Temporal consistency · identity</text>
 
-    <rect x="441" y="400" width="318" height="142" rx="22" fill="#08111f" fill-opacity="0.9" stroke="#25483f"/>
-    <rect x="463" y="423" width="46" height="46" rx="14" fill="#14b8a6" fill-opacity="0.18"/>
+    <rect x="441" y="400" width="318" height="142" rx="22" fill="#08111f" fill-opacity="0.92" stroke="#25483f"/>
+    <rect x="463" y="423" width="46" height="46" rx="14" fill="#14b8a6" fill-opacity="0.16"/>
     <text x="477" y="454" fill="#2dd4bf" font-size="22" font-weight="850">02</text>
-    <text x="527" y="446" fill="#f8fafc" font-size="20" font-weight="800">OCR in Hard Conditions</text>
-    <text x="527" y="480" fill="#94a3b8" font-size="15" font-weight="500">Synthetic data · plate OCR</text>
-    <text x="527" y="508" fill="#94a3b8" font-size="15" font-weight="500">Blur · low light · smog</text>
+    <text x="527" y="446" fill="#f8fafc" font-size="20" font-weight="800">3D Motion & Geometry</text>
+    <text x="527" y="480" fill="#94a3b8" font-size="15" font-weight="500">Depth · optical flow</text>
+    <text x="527" y="508" fill="#94a3b8" font-size="15" font-weight="500">Reconstruction · geometry</text>
 
-    <rect x="788" y="400" width="318" height="142" rx="22" fill="#08111f" fill-opacity="0.9" stroke="#5b351d"/>
-    <rect x="810" y="423" width="46" height="46" rx="14" fill="#f97316" fill-opacity="0.18"/>
-    <text x="824" y="454" fill="#fb923c" font-size="22" font-weight="850">03</text>
+    <rect x="788" y="400" width="318" height="142" rx="22" fill="#08111f" fill-opacity="0.92" stroke="#1e40af"/>
+    <rect x="810" y="423" width="46" height="46" rx="14" fill="#2563eb" fill-opacity="0.16"/>
+    <text x="824" y="454" fill="#60a5fa" font-size="22" font-weight="850">03</text>
     <text x="874" y="446" fill="#f8fafc" font-size="20" font-weight="800">Robotics Perception</text>
     <text x="874" y="480" fill="#94a3b8" font-size="15" font-weight="500">MPC · multi-robot navigation</text>
-    <text x="874" y="508" fill="#94a3b8" font-size="15" font-weight="500">Dense obstacle avoidance</text>
+    <text x="874" y="508" fill="#94a3b8" font-size="15" font-weight="500">Obstacle-rich collision avoidance</text>
   </g>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="750">
@@ -116,6 +115,6 @@
     <text x="781" y="593" fill="#cbd5e1">MERN</text>
   </g>
 
-  <text x="96" y="658" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="750">Open to collaboration in Computer Vision, Video AI, Robotics Perception, OCR, and 3D Vision.</text>
+  <text x="96" y="658" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="750">Open to remote collaboration in Computer Vision, Video AI, Robotics Perception, OCR, and 3D Vision.</text>
   <rect x="96" y="682" width="1008" height="4" rx="2" fill="url(#accent)"/>
 </svg>
