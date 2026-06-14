@@ -1,6 +1,6 @@
 <svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Taqi Raza - Computer Vision Engineer</title>
-  <desc id="desc">A polished profile UI for computer vision, video AI, 3D vision, robotics perception, OCR, and production ML.</desc>
+  <desc id="desc">A polished profile UI for computer vision, 3D vision, robotics perception, vision transformers, and production ML.</desc>
   <defs>
     <linearGradient id="page" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050711"/>
@@ -55,8 +55,10 @@
     <text x="126" y="329" fill="#ffffff">3D Vision</text>
     <rect x="258" y="304" width="144" height="38" rx="19" fill="#2563eb"/>
     <text x="288" y="329" fill="#ffffff">Robotics</text>
-    <rect x="418" y="304" width="84" height="38" rx="19" fill="#475569"/>
-    <text x="448" y="329" fill="#ffffff">OCR</text>
+    <rect x="418" y="304" width="76" height="38" rx="19" fill="#475569"/>
+    <text x="447" y="329" fill="#ffffff">ViT</text>
+    <rect x="510" y="304" width="138" height="38" rx="19" fill="#475569"/>
+    <text x="539" y="329" fill="#ffffff">Transformers</text>
   </g>
 
   <g>
@@ -83,7 +85,7 @@
     <text x="665" y="454" fill="#60a5fa" font-size="22" font-weight="800">02</text>
     <text x="719" y="446" fill="#f8fafc" font-size="21" font-weight="800">Robotics Perception</text>
     <text x="719" y="480" fill="#94a3b8" font-size="15" font-weight="500">MPC planning · multi-robot navigation</text>
-    <text x="719" y="508" fill="#94a3b8" font-size="15" font-weight="500">Collision avoidance · obstacle-rich environments</text>
+    <text x="719" y="508" fill="#94a3b8" font-size="15" font-weight="500">Obstacle-rich navigation</text>
   </g>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
@@ -106,6 +108,6 @@
     <text x="781" y="593" fill="#cbd5e1">MERN</text>
   </g>
 
-  <text x="96" y="658" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Open to remote collaboration in 3D Vision, Robotics Perception, OCR, and Production ML.</text>
+  <text x="96" y="658" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">Open to remote collaboration across 3D Vision, Robotics Perception, Vision Transformers, and Production ML.</text>
   <rect x="96" y="682" width="1008" height="4" rx="2" fill="url(#accent)"/>
 </svg>
