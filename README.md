@@ -1,70 +1,54 @@
-<div align="center">
+<h1 align="center">Muhammad Taqi Raza</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,45:0f766e,100:2563eb&text=Muhammad%20Taqi%20Raza&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Computer%20Vision%20%7C%20Video%20AI%20%7C%203D%20Vision%20%7C%20Robotics%20Perception&descAlignY=56&descSize=15" />
+<p align="center">
+  <strong>Computer Vision Engineer</strong> · Video AI · 3D Vision · Robotics Perception · OCR
+</p>
 
-<a href="https://linkedin.com/in/muhammad-taqi-raza">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:taqiraza126@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-taqi-raza">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:taqiraza126@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br />
-<br />
+<p align="center">
+  <kbd>Video AI</kbd>
+  <kbd>3D / Geometric Vision</kbd>
+  <kbd>OCR</kbd>
+  <kbd>Robotics Perception</kbd>
+  <kbd>Production ML</kbd>
+</p>
 
-<h3>Real-world vision systems for video, geometry, OCR, and robotics</h3>
+---
 
-<p>Depth · Motion · Text Recognition · Temporal Consistency · Dense-Environment Collision Avoidance</p>
+### Profile
 
-</div>
+I build computer vision systems that turn images and video into reliable signals: depth, motion, geometry, text, temporal consistency, and safe perception outputs. My work connects research-heavy visual modeling with practical deployment: clean pipelines, robust inference, Dockerized services, and AWS-backed delivery.
 
-<br />
+### Domain Strengths
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Video%20AI-camera%20motion%20%7C%20temporal%20consistency-0f172a?style=for-the-badge&labelColor=0284c7" />
-<img src="https://img.shields.io/badge/3D%20Vision-depth%20%7C%20optical%20flow%20%7C%20reconstruction-0f172a?style=for-the-badge&labelColor=0d9488" />
-<img src="https://img.shields.io/badge/OCR-synthetic%20data%20%7C%20robust%20recognition-0f172a?style=for-the-badge&labelColor=7c3aed" />
-<img src="https://img.shields.io/badge/Robotics%20Perception-MPC%20%7C%20dense%20obstacle%20avoidance-0f172a?style=for-the-badge&labelColor=ea580c" />
-<img src="https://img.shields.io/badge/Production%20ML-Docker%20%7C%20AWS%20%7C%20end--to--end%20systems-0f172a?style=for-the-badge&labelColor=16a34a" />
-
-</div>
-
-<br />
-
-### What I Build
-
-I work on computer vision systems where visual models need to survive real inputs, real constraints, and real deployment. My strongest area is the bridge between **video AI**, **geometric vision**, **OCR**, and **robotics perception**.
-
-<br />
+- **Video AI:** camera motion, controllable generation, temporal consistency, inpainting, super-resolution.
+- **3D / Geometric Vision:** depth estimation, optical flow, 3D reconstruction, geometry-aware video pipelines.
+- **OCR / Recognition:** synthetic data generation, license plate OCR, robustness under blur, low light, smog, and distorted plates.
+- **Robotics Perception:** multi-robot navigation, MPC planning, dense-environment collision avoidance across obstacle-rich scenarios.
+- **Production ML:** end-to-end CV pipelines, Dockerized inference, AWS deployment, model optimization.
 
 ### Technical Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,docker,aws,linux,git,matlab,mongodb,express,react,nodejs,js&perline=8" />
-
-</div>
-
-<br />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,docker,aws,linux,git,matlab,mongodb,express,react,nodejs,js&perline=8" />
+</p>
 
 ### Selected Work
 
-**Roll.ai**  
-Monocular video generation pipelines with camera motion, depth, optical flow, temporal consistency, inpainting, super-resolution, and identity preservation.
+- **Roll.ai:** monocular video generation pipelines with camera motion, depth, optical flow, temporal consistency, inpainting, super-resolution, and identity preservation.
+- **Hazen.ai:** license plate OCR with synthetic data generation and robustness across blur, low light, smog, and distorted plates.
+- **Research:** multi-robot navigation with MPC planning and dense-environment collision avoidance across obstacle-rich scenarios.
 
-**Hazen.ai**  
-License plate OCR with synthetic data generation and robustness across blur, low light, smog, and distorted plates.
+---
 
-**Research**  
-Multi-robot navigation with MPC planning and dense-environment collision avoidance across obstacle-rich scenarios.
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563eb,50:14b8a6,100:020617" />
-
-**Open to collaboration in Computer Vision, Video AI, Robotics Perception, OCR, and 3D Vision.**
-
-</div>
+<p align="center">
+  <strong>Open to collaboration</strong> in Computer Vision, Video AI, Robotics Perception, OCR, and 3D Vision.
+</p>
