@@ -11,25 +11,17 @@
   </a>
 </p>
 
-### Profile
+### Snapshot
 
-I build computer vision systems that turn images and video into reliable signals: depth, motion, geometry, text recognition, temporal consistency, and safe perception outputs. My work connects research-heavy visual modeling with practical deployment through clean pipelines, robust inference, Dockerized services, and AWS-backed delivery.
+Computer vision engineer focused on **video AI**, **3D/geometric vision**, **OCR**, and **robotics perception**. I build end-to-end systems that move from research experiments to Dockerized, AWS-backed inference pipelines.
 
-### Focus Areas
+### Highlights
 
-- **Video AI:** camera motion, controllable generation, temporal consistency, inpainting, super-resolution.
-- **3D / Geometric Vision:** depth estimation, optical flow, 3D reconstruction, geometry-aware video pipelines.
-- **OCR / Recognition:** synthetic data generation, license plate OCR, robustness under blur, low light, smog, and distorted plates.
-- **Robotics Perception:** multi-robot navigation, MPC planning, dense-environment collision avoidance across obstacle-rich scenarios.
-- **Production ML:** end-to-end CV pipelines, Dockerized inference, AWS deployment, model optimization.
+- **Roll.ai:** monocular video generation with camera motion, depth, optical flow, temporal consistency, inpainting, super-resolution, and identity preservation.
+- **Hazen.ai:** license plate OCR using synthetic data and robust recognition under blur, low light, smog, and distorted plates.
+- **Research:** multi-robot navigation with MPC planning and dense-environment collision avoidance in obstacle-rich scenarios.
 
-### Selected Work
-
-- **Roll.ai:** monocular video generation pipelines with camera motion, depth, optical flow, temporal consistency, inpainting, super-resolution, and identity preservation.
-- **Hazen.ai:** license plate OCR with synthetic data generation and robustness across blur, low light, smog, and distorted plates.
-- **Research:** multi-robot navigation with MPC planning and dense-environment collision avoidance across obstacle-rich scenarios.
-
-### Technical Stack
+### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,docker,aws,linux,git,matlab,mongodb,express,react,nodejs,js&perline=8" alt="Technical stack icons" />
